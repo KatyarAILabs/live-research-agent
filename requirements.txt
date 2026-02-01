@@ -1,0 +1,10 @@
+langchain>=0.3.10,<1.0.0
+langchain-community>=0.3.10,<1.0.0
+langchain-groq
+langchain-core>=0.3.10,<1.0.0
+duckduckgo-search
+python-dotenv
+streamlit
+wikipedia
+requests
+yt-dlp
