@@ -2,7 +2,7 @@ langchain>=0.3.10,<1.0.0
 langchain-community>=0.3.10,<1.0.0
 langchain-groq
 langchain-core>=0.3.10,<1.0.0
-duckduckgo-search
+ddgs
 python-dotenv
 streamlit
 wikipedia
